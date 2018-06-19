@@ -1,13 +1,13 @@
 # School_Projects
 Projects I have done while in school.
 
-Database Prog - Final Project
+Database Prog - Final Project.    
   The purpose of this project was to create a database of the student's choosing and satisfy all criteria listed by the professor.
   For this project, I chose create a database that would link scrapyards across the nation and allow the public to search and find 
   parts that they need. We used Oracle and PL/SQL for this project. We had to incorporate functions, triggers, programs, exceptions,
   and complex queries to meet the criteria for the project.
 
-JAVA 1 - Final Project
+JAVA 1 - Final Project.    
   For this project, we were instructed to create a movie database that had to have certain elements such as:
     Main and sub menus.
     Admin and users with seperate menus and permissions.
@@ -16,7 +16,7 @@ JAVA 1 - Final Project
     All should be able to search and find movies.
     Use Java to make connections to a MySQL database where the movies and users are stored.
     
-Web Prog - Final Project
+Web Prog - Final Project.    
   In this project, we were given a basic HTML website with all formatting and wireframe already setup. From there, we converted
   the entire website to a PHP design. We were given a list of possible modifications that we could do from there to enhance the 
   webpage that was given to us. If we did everything on the list, we would get extra points after a certain point. I opted to do
